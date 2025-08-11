@@ -1,4 +1,4 @@
 # RFID-Hero
-A Guitar hero like game made possible to work on an arduino using a rfid reader that make possible hit the target.
+A Guitar hero like game that works on an arduino using a rfid reader to hit the nodes.
 ## Creator
 Me, FunWolfgun998!
